@@ -1,3 +1,4 @@
+
 a = int(1)   # a will be 1
 b = int(2.8) # b will be 2
 c = int("3") # c will be 3
