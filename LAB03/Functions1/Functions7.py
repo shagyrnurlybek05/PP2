@@ -5,4 +5,3 @@ def reverse_sentence(sentence):
     return rsentence
 sentence = input()
 print(reverse_sentence(sentence))
-#Nurlybek mal !!! From Nuerhali Bakejian 
