@@ -5,9 +5,9 @@ import os
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 
-MUSIC_FOLDER = "/Users/shagyrnurlybek/Documents/GitHub/LAB07/Music"
-BACKGROUND_IMAGE = "/Users/shagyrnurlybek/Documents/GitHub/LAB07/Music image/TAU.jpeg"
-BUTTONS_FOLDER = "Music buttons"
+MUSIC_FOLDER = "/Users/shagyrnurlybek/Documents/GitHub/PP2/LAB07/Music"
+BACKGROUND_IMAGE = '/Users/shagyrnurlybek/Documents/GitHub/PP2/LAB07/Music image/TAU.jpeg'
+BUTTONS_FOLDER = '/Users/shagyrnurlybek/Documents/GitHub/PP2/LAB07/Music buttons'
 
 # Кнопкалардың өлшемдері
 BUTTON_SIZE = (70, 70)
