@@ -12,9 +12,9 @@ clock = pygame.time.Clock()
 pygame.display.set_caption("Mickey clock")
 
 # Загрузка изображений
-leftarm = pygame.image.load("/Users/shagyrnurlybek/Documents/GitHub/LAB07/Clock images/hour.jpg")
-rightarm = pygame.image.load("/Users/shagyrnurlybek/Documents/GitHub/LAB07/Clock images/minut.jpg")
-mainclock = pygame.transform.scale(pygame.image.load("/Users/shagyrnurlybek/Documents/GitHub/LAB07/Clock images/clock.jpg"), (800, 600))
+leftarm = pygame.image.load('/Users/shagyrnurlybek/Documents/GitHub/PP2/LAB07/Clock images/hour.jpg')
+rightarm = pygame.image.load('/Users/shagyrnurlybek/Documents/GitHub/PP2/LAB07/Clock images/minut.jpg')
+mainclock = pygame.transform.scale(pygame.image.load('/Users/shagyrnurlybek/Documents/GitHub/PP2/LAB07/Clock images/clock.jpg'), (800, 600))
 
 # Масштабируем стрелки
 rightarm = pygame.transform.scale(rightarm, (650, 600))  
